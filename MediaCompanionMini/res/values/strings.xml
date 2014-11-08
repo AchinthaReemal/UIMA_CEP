@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- login page  -->
+    <string name="app_name">Media Companion Mini</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="user_name">User Name</string>
+    <string name="title_activity_home">Home</string>
+    
+    <!-- courses -->
+    <string name="courses_course_name">Course name</string>
+    <string name="courses_forums_btn">Forums</string>
+    <string name="courses_files_btn">Files</string>
+    
+    </resources>
